@@ -9,8 +9,12 @@ website:
     right:
       - text: Home
         href: index.qmd
-      
+
 format:
   html:
+    backgroundcolor: "#eeffee"
+    fontcolor: "darkgreen"
+    linkcolor: "black"
+    mainfont: "monospace"
+    fontsize: 20px
     theme: [cosmo, styles.scss]
-

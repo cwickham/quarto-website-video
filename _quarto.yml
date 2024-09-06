@@ -6,10 +6,14 @@ website:
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: "Made with ❤️ and Quarto"
   navbar:
+    title: Charlotte Wickham
     right:
-      - text: Home
-        href: index.qmd
-
+      - href: talks.qmd
+        text: Talks
+        icon: megaphone
+    tools:
+      - icon: github
+        href: github.com
 format:
   html:
     backgroundcolor: "#eeffee"

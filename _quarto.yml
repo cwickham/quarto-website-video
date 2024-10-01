@@ -16,9 +16,5 @@ website:
         href: github.com
 format:
   html:
-    backgroundcolor: "#eeffee"
-    fontcolor: "darkgreen"
-    linkcolor: "black"
-    mainfont: "monospace"
     fontsize: 20px
     theme: [cosmo, styles.scss]

@@ -11,6 +11,7 @@ website:
       - href: talks.qmd
         text: Talks
         icon: megaphone
+      - href: projects/index.qmd
       - href: blog/index.qmd
     tools:
       - icon: github

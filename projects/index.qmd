@@ -2,6 +2,12 @@
 title: Projects
 listing:
   contents: projects.yml
-  type: grid
+  type: table
   max-description-length: 250
+  sort-ui: false
+  filter-ui: false
+  fields: [title, description, categories]
+  field-display-names: 
+    title: "Project"
+    categories: "Skills"
 ---
